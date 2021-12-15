@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manav Sharma
 - 👀 I enjoy writing code and solving problems
-- 🌱 I’m currently learning cloud
+- 🌱 I’m currently looking forward to learn cloud
 
 <!---
 manavsharmas/manavsharmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
